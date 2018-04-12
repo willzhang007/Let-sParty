@@ -1,6 +1,0 @@
-framework module Pods_LETSPARTYTests {
-  umbrella header "Pods-LETSPARTYTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -1,6 +1,0 @@
-framework module Pods_LETSPARTY {
-  umbrella header "Pods-LETSPARTY-umbrella.h"
-
-  export *
-  module * { export * }
-}
